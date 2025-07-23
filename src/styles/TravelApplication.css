@@ -227,6 +227,7 @@
     background-color: #0698D2 !important;
     color: white;
     border: none;
+    height: 35px !important;
     border-radius: 6px;
     font-weight: 500;
     cursor: pointer;
